@@ -1,0 +1,30 @@
+
+body{
+	color:blue;
+	background-color: orange;
+	font-family: "TIMES NEW ROMAN";
+
+
+}
+
+h1{
+	text-align: center;
+	text-decoration: underline;
+	color: green;
+
+	}
+h2{
+	text-align:center;
+	color:brown;
+}
+p{text-align: right}
+a{color:grey;
+text-decoration: none;
+
+}
+
+#segundo{
+	text-align: left;
+}
+
+.pendiente{color:brown;}
